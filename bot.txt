@@ -1,0 +1,3 @@
+"ip":"coolsmp523.aternos.me",
+"port": "62154",
+"name": "imtoggso563"
